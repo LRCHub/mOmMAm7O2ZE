@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Everyday",
+  "base_artist": "Incognito",
+  "createdAt": "2026-03-02T07:13:21.892661Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Everyday Is a Winding Road",
+      "artist": "Sheryl Crow",
+      "has_synced": false,
+      "path": "select/01_Everyday_Is_a_Winding_Road_Sheryl_Crow.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Everyday",
+      "artist": "Yo La Tengo",
+      "has_synced": true,
+      "path": "select/02_Everyday_Yo_La_Tengo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Everyday Is Like Sunday",
+      "artist": "Morrissey",
+      "has_synced": true,
+      "path": "select/03_Everyday_Is_Like_Sunday_Morrissey.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Everyday Is Like Sunday",
+      "artist": "Morrissey",
+      "has_synced": true,
+      "path": "select/04_Everyday_Is_Like_Sunday_Morrissey.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Everyday It's 1989",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/05_Everyday_It's_1989_Moby.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Everyday it's 1989",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/06_Everyday_it's_1989_Moby.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Everyday Struggle",
+      "artist": "The Notorious B.I.G.",
+      "has_synced": true,
+      "path": "select/07_Everyday_Struggle_The_Notorious_B.I.G..lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Everyday Struggle",
+      "artist": "Notorious B.I.G.",
+      "has_synced": true,
+      "path": "select/08_Everyday_Struggle_Notorious_B.I.G..lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Everyday Feels Like Sunday",
+      "artist": "of Montreal",
+      "has_synced": true,
+      "path": "select/09_Everyday_Feels_Like_Sunday_of_Montreal.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Each And Everyday - Bird Song",
+      "artist": "Jon & Vangelis",
+      "has_synced": false,
+      "path": "select/10_Each_And_Everyday_-_Bird_Song_Jon_&_Vangelis.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "An Everyday Consumption Song",
+      "artist": "Spirogyra",
+      "has_synced": false,
+      "path": "select/11_An_Everyday_Consumption_Song_Spirogyra.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Everyday",
+      "artist": "Panda Bear feat. Sonic Boom",
+      "has_synced": true,
+      "path": "select/12_Everyday_Panda_Bear_feat._Sonic_Boom.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Everyday",
+      "artist": "Panda Bear",
+      "has_synced": true,
+      "path": "select/13_Everyday_Panda_Bear.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Everyday I Have The Blues",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/14_Everyday_I_Have_The_Blues_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Everyday I Have the Blues",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/15_Everyday_I_Have_the_Blues_B.B._King.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Everyday",
+      "artist": "Incognito",
+      "has_synced": false,
+      "path": "select/pl_01_Everyday_Incognito.txt"
+    }
+  ]
+}
